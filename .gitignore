@@ -1,0 +1,8 @@
+/.metadata/
+/.sonarlint/
+/Servers/
+/.gradle
+/.settings
+/bin
+/.classpath
+/.project
